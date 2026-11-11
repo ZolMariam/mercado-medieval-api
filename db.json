@@ -631,23 +631,5 @@
       "urlImagen": "assets/images/products/horses/horses-zaino-negro.png"
     }
   ],
-  "anuncios": [
-    {
-      "nombreItem": "Elixir de Salud Carmesí",
-      "precioOriginal": 25,
-      "ganancia": 20,
-      "precioFinal": 45,
-      "estado": "vendido",
-      "id": 1
-    },
-    {
-      "nombreItem": "Tónico de Concentración Arcana",
-      "precioOriginal": 40,
-      "ganancia": 20,
-      "precioFinal": 60,
-      "estado": "en_venta",
-      "fechaPublicacion": "2026-11-10T08:53:11.648",
-      "id": 2
-    }
-  ]
+  "anuncios": []
 }
